@@ -1,5 +1,3 @@
-# figures.py
-
 import turtle
 
 def draw_square(length):
