@@ -5,4 +5,4 @@ def sum_natural(n):
     return total
 
 result = sum_natural(10)
-print(result)
+print(sum_natural(10))
