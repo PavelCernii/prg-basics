@@ -1,0 +1,7 @@
+War and Peace,Leo Tolstoy,1869
+Les Misérables,Victor Hugo,1862
+The Grapes of Wrath,John Steinbeck,1939
+A Tale of Two Cities,Charles Dickens,1859
+Gone with the Wind,Margaret Mitchell,1936
+Beloved,Toni Morrison,1987
+The Kite Runner,Khaled Hosseini,2003
